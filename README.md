@@ -147,16 +147,6 @@ This project is a comprehensive analysis of Amazon’s Top 50 Bestselling Books 
 ---
 
 
-> 🚀 I just completed a full data analytics project using Python (Colab) + Power BI as part of the Google Data Analytics Case Study framework!  
->
-> 📚 Dataset: Amazon's Top 50 Bestselling Books (2009–2019)  
-> 🔎 Tools: Python, Pandas, Power BI  
-> 📊 Insights: Explored top genres, author trends, pricing strategy, and user ratings  
-> 💡 Outcome: Built 3 interactive dashboards + business recommendations  
->
-> 🔗 GitHub: [Your Repo Link]  
-> 🔗 Power BI (Published/Images): [Power BI Link or Screenshot Album]  
->
-> #DataAnalytics #PowerBI #Python #GoogleDataAnalytics #PortfolioProject #NiharSolanki
+
 
 
