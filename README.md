@@ -44,7 +44,6 @@ Provided a data-driven roadmap for content acquisition and budget allocation.
 
 This project helped me sharpen my skills in EDA, feature engineering, machine learning, and business strategy.
 
-That’s excellent, Nihar! You’ve built a complete, professional-grade data analysis project using **Python (Colab)** and **Power BI**, aligned with the **Google Data Analytics Capstone** structure. Here's your full project write-up for **GitHub** and **LinkedIn** — clear, structured, and recruiter-friendly.
 
 ---
 
