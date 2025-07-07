@@ -145,6 +145,31 @@ This project is a comprehensive analysis of Amazon’s Top 50 Bestselling Books 
 
 ---
 
+Project Title:-Customer Churn Analysis & Prediction for Telecom Services
+
+Project Description:
+This project focuses on analyzing customer churn for a telecommunications company and building predictive models to identify customers at high risk of leaving. The process involved detailed data preprocessing, exploratory data analysis (EDA), and machine learning modeling.
+
+Key highlights include:
+
+Cleaning and preparing telecom customer data, including handling missing values and encoding categorical variables.
+
+Visualizing churn patterns based on tenure, contract types, and payment methods.
+
+Identifying high-risk churn segments such as month-to-month contract holders and new customers (0–5 months).
+
+Implementing churn prevention strategies based on data insights.
+
+Recommending targeted actions for different customer segments to enhance retention and reduce churn.
+
+💡 Model Performance:
+
+Achieved 75.8% accuracy on the test dataset.
+
+Reached an F1 Score of 60, balancing precision and recall for churn prediction.
+
+The final outcome provides actionable business insights and a predictive framework that can support strategic decision-making in customer relationship management.
+
 
 
 
