@@ -152,24 +152,16 @@ Project Description:
 This project focuses on analyzing customer churn for a telecommunications company and building predictive models to identify customers at high risk of leaving. The process involved detailed data preprocessing, exploratory data analysis (EDA), and machine learning modeling.
 
 Key highlights include:
-
-Cleaning and preparing telecom customer data, including handling missing values and encoding categorical variables.
-
-Visualizing churn patterns based on tenure, contract types, and payment methods.
-
-Identifying high-risk churn segments such as month-to-month contract holders and new customers (0–5 months).
-
-Implementing churn prevention strategies based on data insights.
-
-Recommending targeted actions for different customer segments to enhance retention and reduce churn.
+1. Cleaning and preparing telecom customer data, including handling missing values and encoding categorical variables.
+2.Visualizing churn patterns based on tenure, contract types, and payment methods.
+3. Identifying high-risk churn segments such as month-to-month contract holders and new customers (0–5 months).
+4. Implementing churn prevention strategies based on data insights.
+5. Recommending targeted actions for different customer segments to enhance retention and reduce churn.
 
 💡 Model Performance:
-
-Achieved 75.8% accuracy on the test dataset.
-
-Reached an F1 Score of 60, balancing precision and recall for churn prediction.
-
-The final outcome provides actionable business insights and a predictive framework that can support strategic decision-making in customer relationship management.
+1. Achieved 75.8% accuracy on the test dataset.
+2. Reached an F1 Score of 60, balancing precision and recall for churn prediction.
+3. The final outcome provides actionable business insights and a predictive framework that can support strategic decision-making in customer relationship management.
 
 
 
