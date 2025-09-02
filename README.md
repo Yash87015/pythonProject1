@@ -1,5 +1,6 @@
-Project: Netflix Movie and TV Show Analysis and Recommendation System
-
+--- 
+## Project: Netflix Movie and TV Show Analysis and Recommendation System
+---
 Project Overview
 This project involved a comprehensive Exploratory Data Analysis (EDA), feature engineering, machine learning models, and content strategy recommendations based on movie and TV show datasets. We explored various aspects, including revenue, budget, popularity, and ROI trends, and built a machine learning-based recommendation system tailored for Netflix users.
 
@@ -47,7 +48,7 @@ This project helped me sharpen my skills in EDA, feature engineering, machine le
 
 ---
 
-## 📘 Project 2 Title: **Amazon’s Bestselling Books (2009–2019) Analysis**
+##  Project 2 Title: **Amazon’s Bestselling Books (2009–2019) Analysis**
 
 ---
 
@@ -144,9 +145,9 @@ This project is a comprehensive analysis of Amazon’s Top 50 Bestselling Books 
 - Encourage repeat publications from high-performing authors like Jeff Kinney and Stephen King
 
 ---
-
-Project Title:-Customer Churn Analysis & Prediction for Telecom Services
-
+---
+## Project Title:-Customer Churn Analysis & Prediction for Telecom Services
+---
 Project Description:
 This project focuses on analyzing customer churn for a telecommunications company and building predictive models to identify customers at high risk of leaving. The process involved detailed data preprocessing, exploratory data analysis (EDA), and machine learning modeling.
 
