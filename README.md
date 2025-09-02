@@ -36,11 +36,11 @@ Built and demonstrated a scalable Recommendation System to enhance user experien
 Provided a data-driven roadmap for content acquisition and budget allocation.
 
 
-✅ Exploratory Data Analysis (EDA): Identified key trends in popularity, revenue, and budget efficiency.
-✅ Recommendation System: Implemented a Random Forest-based model to recommend movies and TV shows based on content preferences.
-✅ Revenue Prediction Model: Built a Random Forest Regression model to predict which movies generate the highest returns.
-✅ Content Strategy Recommendations: Suggested optimal budget ranges, highlighted content gaps in genres/languages, and provided actionable insights for streaming success.
-✅ Data Visualization: Created charts and dashboards to support better decision-making.
+1.  Exploratory Data Analysis (EDA): Identified key trends in popularity, revenue, and budget efficiency.
+2.  Recommendation System: Implemented a Random Forest-based model to recommend movies and TV shows based on content preferences.
+3.  Revenue Prediction Model: Built a Random Forest Regression model to predict which movies generate the highest returns.
+4. Content Strategy Recommendations: Suggested optimal budget ranges, highlighted content gaps in genres/languages, and provided actionable insights for streaming success.
+5. Data Visualization: Created charts and dashboards to support better decision-making.
 
 This project helped me sharpen my skills in EDA, feature engineering, machine learning, and business strategy.
 
@@ -131,7 +131,7 @@ This project is a comprehensive analysis of Amazon’s Top 50 Bestselling Books 
 - Avg Price by Author (Bar)
 - Revenue by Genre (Stacked Column)
 
-✅ **Interactive filters** allow stakeholders to explore trends by year, genre, and author.
+ **Interactive filters** allow stakeholders to explore trends by year, genre, and author.
 
 
 
