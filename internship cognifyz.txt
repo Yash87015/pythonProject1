@@ -1,0 +1,16 @@
+Cognifyz_internship insights and information
+
+i completed all my task each leval most of task done in using python and only one task done in power bi 
+
+for python i use google colab in attch file ipnyb file also power bi file 
+
+each task has following insights are add in text box except power bi task so i add in this file 
+
+insights for level 2 task 3
+
+- some resturant name has no longitude and latitude may be wrong data entry has there but some how most of resturant name i thing # name was comment name there was not data perfectly enter 
+
+- you can select slicer and see insights what you need but i think there was no patten are there but some cluster are present in us,india,etc some frenciecies are getting more ratting then local resturants and localists
+
+
+
